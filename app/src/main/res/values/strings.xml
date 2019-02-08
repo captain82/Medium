@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whatsapp Listener</string>
+    <string name="service_name">service_name</string>
+</resources>
